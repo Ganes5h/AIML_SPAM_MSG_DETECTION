@@ -59,10 +59,10 @@ input[type="submit"]:hover {
 }
 
 .footer {
-    position: absolute;
+    /* position: absolute;
     right: 0;
     bottom: 0;
-    left: 0;
+    left: 0; */
     padding: 1rem;
     background-color: #efefef;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
